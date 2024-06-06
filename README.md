@@ -23,11 +23,10 @@
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum Icon" width="70" height="70" />
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS Icon" width="70" height="70" />
 </div>
-![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Flutter+Engineer&center=true&size=28&color=ff8a65">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Blockchain+Engineer;Senior+Web3+Engineer;Senior+NFT+Engineer:Senior+Solana+Engineer&center=true&size=28&color=ff8a65">
   </a>
 
   <a href="https://git.io/typing-svg">
