@@ -99,7 +99,7 @@
   
 ## About
 
-Senior engineer with 8+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
+Senior engineer with 5+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
 
 
 ## Languages and Tool
@@ -133,6 +133,6 @@ Senior engineer with 8+ years of experience building up web & mobile app and blo
 
 <div class="d-block", align="center">
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Coindev&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
   
 </div>
