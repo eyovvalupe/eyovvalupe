@@ -129,10 +129,5 @@ Senior engineer with 8+ years of experience building up web & mobile app and blo
 <br>
 <br>
 
-## Usage Graph
-
-<div class="d-block", align="center">
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
   
 </div>
