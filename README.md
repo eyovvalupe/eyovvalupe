@@ -2,7 +2,7 @@
 
 ## Technologies I Work With
 
-<div>
+<!-- <div>
   <img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3 Icon" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" width="50" height="50" />
@@ -21,8 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native Icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="Web API Icon" width="50" height="50" />
-</div>
-
+</div> -->
+<!-- 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Blockchain+Engineer;Senior+Web3+Engineer;Senior+NFT+Engineer;Senior+Solana+Engineer;Senior+Full-Stack+Engineer&center=true&size=28&color=ff8a65">
@@ -31,7 +31,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Solana+Engineer;Senior+NFT+Engineer;Senior+Web3+Engineer;Senior+Blockchain+Engineer;Senior+Full-Stack+Engineer&center=true&size=28&color=54AEFF">
   </a>
-</h1>
+</h1> -->
 
 <p align="center">
 
@@ -67,7 +67,7 @@
     <img height="40px" src="Images/Static/discord.png" title="Discord">
   </a> -->
 
-  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+  <!-- <img src="Images/Dynamic/snake.svg" style="background:#161b22;"> -->
   
 </p>
 
