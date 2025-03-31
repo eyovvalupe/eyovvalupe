@@ -89,10 +89,10 @@
 <!-- <p align=center> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
 <!-- </p> -->
-<div class="d-block", align="center">
+<!-- <div class="d-block", align="center"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 </div>
