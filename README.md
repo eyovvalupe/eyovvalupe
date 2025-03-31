@@ -71,7 +71,7 @@
   
 </p>
 
-- 👈 I have expertise in smart contract and web3 integration.  
+- 👈 I have expertise in Full stack development.  
   
 
 - 👀 I’m interested in blockchain with Python & Golang world.  
