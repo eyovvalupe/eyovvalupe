@@ -99,7 +99,7 @@
   
 ## About
 
-Senior engineer with 8+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
+Senior engineer with 8+ years of experience building up web & mobile app and blockchain.
 
 
 ## Languages and Tool
