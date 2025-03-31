@@ -84,7 +84,7 @@
 
 - ⭐ Everyone say that I was born for Flutter and React Native for android & iOS.
 
-<h2 align="center">⚡ Stats</h2>
+<!-- <h2 align="center">⚡ Stats</h2> -->
 
 <!-- <p align=center> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
