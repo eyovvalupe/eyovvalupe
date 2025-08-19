@@ -71,16 +71,13 @@
   
 </p>
 
-- 👈 I have expertise in Full stack development.  
-  
-
-- 👀 I’m interested in blockchain with Python & Golang world.  
+- 👈 I have expertise in Full stack development.   
   
 
 - 🌱 Passionate about development and coding.  
   
 
-- 💞️ I’m looking to collaborate on Blockchain/Artificial Intelligence development.  
+- 💞️ I’m looking to collaborate on Artificial Intelligence development.  
 
 - ⭐ Everyone say that I was born for Flutter and React Native for android & iOS.
 
